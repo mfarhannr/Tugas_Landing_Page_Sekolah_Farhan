@@ -1,0 +1,1 @@
+https://smktibazma.sch.id/static/media/hero-1.2803f83852406277b6cd.jpg
