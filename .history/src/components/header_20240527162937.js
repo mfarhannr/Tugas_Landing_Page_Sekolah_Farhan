@@ -29,7 +29,7 @@ function Header() {
               <Nav.Link className="ms-4" href="#features">
                 Fasilitas
               </Nav.Link>
-              <Nav.Link className="ms-4" href="#faq">
+              <Nav.Link className="ms-4" href="#">
                 FAQ
               </Nav.Link>
             </Nav>

@@ -23,7 +23,7 @@ function Footer() {
             />
           </div>
 
-          <div className="col-lg-4 col-md-6">
+          <div className="col-lg-4 col-md-6 mb-4 me">
             <h3 className="h4 text-white mb-3">Kontak Kami</h3>
             <ul className="list-unstyled">
               <li className="mb-2">

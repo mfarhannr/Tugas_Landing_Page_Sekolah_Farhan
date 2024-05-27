@@ -1,5 +1,4 @@
 import React from "react";
-import bazma from "../Bazma.png";
 
 function Footer() {
   return (
@@ -13,17 +12,7 @@ function Footer() {
               Kabupaten Bogor. Jawa Barat 16620
             </p>
           </div>
-          
-          <div className="col-lg-4 col-md-6 mb-4 text-center">
-            <img
-              src={bazma}
-              height="100"
-              className="d-inline-block align-top"
-              alt="React Bootstrap logo"
-            />
-          </div>
-
-          <div className="col-lg-4 col-md-6">
+          <div className="col-lg-4 col-md-6 mb-4">
             <h3 className="h4 text-white mb-3">Kontak Kami</h3>
             <ul className="list-unstyled">
               <li className="mb-2">
@@ -33,6 +22,14 @@ function Footer() {
                 <p>08 1111 4433 9</p>
               </li>
             </ul>
+          </div>
+          <div className="col-lg-4 col-md-6 mb-4">
+            <img
+              src={bazma}
+              height="50"
+              className="d-inline-block align-top"
+              alt="React Bootstrap logo"
+            />
           </div>
         </div>
       </div>

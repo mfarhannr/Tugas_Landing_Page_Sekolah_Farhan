@@ -61,7 +61,8 @@ p {
   font-weight: bold;
 }
 
-.footer {
+.header {
+  font-size: 22px;
   font-family: Phenomena;
-  font-weight: medium;
+  font-weight: bold;
 }

@@ -14,16 +14,16 @@ function Footer() {
             </p>
           </div>
           
-          <div className="col-lg-4 col-md-6 mb-4 text-center">
+          <div className="col-lg-4 col-md-6 mb-4 tex">
             <img
               src={bazma}
-              height="100"
+              height="80"
               className="d-inline-block align-top"
               alt="React Bootstrap logo"
             />
           </div>
 
-          <div className="col-lg-4 col-md-6">
+          <div className="col-lg-4 col-md-6 mb-4">
             <h3 className="h4 text-white mb-3">Kontak Kami</h3>
             <ul className="list-unstyled">
               <li className="mb-2">

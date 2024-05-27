@@ -3,7 +3,7 @@ import Accordion from 'react-bootstrap/Accordion';
 
 function FAQ() {
     return (
-      <section className="py-4" id="faq">
+      <section className="py-5" id="faq">
         <div className="container">
           <h1
             style={{ fontSize: "36px", fontWeight: "600" }}

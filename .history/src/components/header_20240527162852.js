@@ -6,7 +6,7 @@ import logo from "../logo.png";
 
 function Header() {
   return (
-    <section id="beranda">
+    <section id="faq">
       <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
         <Container>
           <Navbar.Brand href="#beranda">
@@ -29,7 +29,7 @@ function Header() {
               <Nav.Link className="ms-4" href="#features">
                 Fasilitas
               </Nav.Link>
-              <Nav.Link className="ms-4" href="#faq">
+              <Nav.Link className="ms-4" href="#FAQ">
                 FAQ
               </Nav.Link>
             </Nav>

@@ -23,8 +23,8 @@ function Footer() {
             />
           </div>
 
-          <div className="col-lg-4 col-md-6">
-            <h3 className="h4 text-white mb-3">Kontak Kami</h3>
+          <div className="col-lg-4 col-md-6 justify-content-end">
+            <h3 className="h4 text-white mb-3d-flex ">Kontak Kami</h3>
             <ul className="list-unstyled">
               <li className="mb-2">
                 <p>info@smktibazma.sch.id</p>
