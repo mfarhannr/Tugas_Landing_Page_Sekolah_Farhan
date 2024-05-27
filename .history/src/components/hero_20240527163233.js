@@ -25,7 +25,7 @@ function Hero() {
           <p style={{ fontSize: "32px" }}>
             Merajut Asa, Menjejak &amp; Menebar Manfaat
           </p>
-          <Button style={{ fontSize: "18px", padding: "10px 20px", fontFamily: "Quicksand" }} variant="secondary" href="#profil">
+          <Button style={{ fontSize: "18px", padding: "10px 20px", fontFamily: "Quicksand" }} variant="secondary" href="#">
             Selengkapnya
           </Button>
         </div>

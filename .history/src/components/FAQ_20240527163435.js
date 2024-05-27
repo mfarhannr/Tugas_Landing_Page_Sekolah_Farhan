@@ -11,11 +11,7 @@ function FAQ() {
           >
             FAQ
           </h1>
-          <Accordion
-            style={{ fontFamily: "Quicksand" }}
-            defaultActiveKey="0"
-            flush
-          >
+          <Accordion defaultActiveKey="0" flush>
             <Accordion.Item eventKey="0">
               <Accordion.Header>
                 SIJA (Sistem Informasi Jaringan & Aplikasi
@@ -32,19 +28,25 @@ function FAQ() {
             <Accordion.Item eventKey="1">
               <Accordion.Header>Apa saja yang dipelajari</Accordion.Header>
               <Accordion.Body>
-                Sistem komputer, jaringan komputer, pemrograman dasar, dasar
-                desain grafis , sistem IoT, komputasi awan, sistem keamanan
-                jaringan, materi sinkronisasi dengan industri, serta produk
-                kreatif dan kewirausahaan.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                sunt in culpa qui officia deserunt mollit anim id est laborum.
               </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="2">
               <Accordion.Header>Peluang kerja lulusan PKL</Accordion.Header>
               <Accordion.Body>
-                Developer aplikasi (Programmer), IT support perangkat lunak,
-                perangkat keras dan jaringan, Konsultan IT (Kursus dan
-                tutorial), Wirausahawan di bidang IT, Wirausahawan di bidang
-                desain grafis dan percetakan, Membuat start-up.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                sunt in culpa qui officia deserunt mollit anim id est laborum.
               </Accordion.Body>
             </Accordion.Item>
           </Accordion>

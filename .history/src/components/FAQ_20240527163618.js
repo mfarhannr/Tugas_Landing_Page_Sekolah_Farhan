@@ -11,11 +11,8 @@ function FAQ() {
           >
             FAQ
           </h1>
-          <Accordion
-            style={{ fontFamily: "Quicksand" }}
-            defaultActiveKey="0"
-            flush
-          >
+          <div className=""
+          <Accordion defaultActiveKey="0" flush>
             <Accordion.Item eventKey="0">
               <Accordion.Header>
                 SIJA (Sistem Informasi Jaringan & Aplikasi

@@ -10,12 +10,9 @@ function FAQ() {
             className="phenomena pb-4"
           >
             FAQ
-          </h1>
-          <Accordion
-            style={{ fontFamily: "Quicksand" }}
-            defaultActiveKey="0"
-            flush
-          >
+                </h1>
+                
+          <Accordion defaultActiveKey="0" flush>
             <Accordion.Item eventKey="0">
               <Accordion.Header>
                 SIJA (Sistem Informasi Jaringan & Aplikasi

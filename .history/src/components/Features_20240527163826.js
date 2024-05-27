@@ -42,8 +42,8 @@ function FeatureCard({ imageUrl, title }) {
         <img src={imageUrl} alt={title} className="card-img-top" />
         <div className="card-body text-center py-3">
           <h5
-            style={{ fontFamily: "Phenomena" }}
-            className="card-title"
+            style={{ fontSize: "36px", fontWeight: "600" }}
+             className="card-title"
           >
             {title}
           </h5>

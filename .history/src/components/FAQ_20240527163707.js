@@ -12,7 +12,7 @@ function FAQ() {
             FAQ
           </h1>
           <Accordion
-            style={{ fontFamily: "Quicksand" }}
+            style={{ fontSize: "36px", fontWeight: "600" }}
             defaultActiveKey="0"
             flush
           >

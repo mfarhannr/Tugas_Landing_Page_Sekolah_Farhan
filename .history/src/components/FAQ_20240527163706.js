@@ -12,8 +12,8 @@ function FAQ() {
             FAQ
           </h1>
           <Accordion
-            style={{ fontFamily: "Quicksand" }}
-            defaultActiveKey="0"
+            style={{ fontSize: "36px", fontWeight: "600" }}
+             defaultActiveKey="0"
             flush
           >
             <Accordion.Item eventKey="0">
